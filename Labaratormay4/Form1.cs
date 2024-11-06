@@ -15,9 +15,15 @@ namespace Labaratormay4
         public Form1()
         {
             InitializeComponent();
+            textBox1.Text = "11111";
         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
         {
 
         }
